@@ -30,6 +30,5 @@ while(rs.next()){
 }
 %>
 </table>
-</form>
 </body>
 </html>
